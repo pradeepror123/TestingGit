@@ -1,0 +1,103 @@
+GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.[3]
+
+GitHub offers both plans for private and free repositories on the same account[4] which are commonly used to host open-source software projects.[5] As of April 2016, GitHub reports having more than 14 million users and more than 35 million repositories,[6] making it the largest host of source code in the world.[7]
+
+The trademark mascot of GitHub is Octocat, an anthropomorphized cat with cephalopod limbs.[8]
+
+Contents  [hide]
+1	Services
+1.1	GitHub
+1.1.1	Scope
+1.1.2	Licensing of repositories
+1.2	GitHub Enterprise
+1.3	Gists
+1.4	Education program
+2	History
+2.1	Censorship
+2.2	Departure of Tom Preston-Werner
+3	Company
+3.1	Organizational structure
+3.2	Finance
+4	See also
+5	References
+6	External links
+Services[edit]
+GitHub[edit]
+Development of the GitHub platform began on 1 October 2007.[9][10] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett after it had been made available for a few months prior as a beta release.[11]
+
+Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. Multiple desktop clients and Git plugins have also been created by GitHub and other third parties that integrate with the platform.
+
+The site provides social networking-like functions such as feeds, followers, wikis (using wiki software called Gollum) and a social network graph to display how developers work on their versions ("forks") of a repository and what fork (and branch within that fork) is newest.
+
+A user must create an account in order to contribute content to the site, but public repositories can be browsed and downloaded by anyone. With a registered user account, users are able to discuss, manage, create repositories, submit contributions to others' repositories, and review changes to code.
+
+The software that runs GitHub was written using Ruby on Rails and Erlang by GitHub, Inc. developers Chris Wanstrath,[12] PJ Hyett, and Tom Preston-Werner.
+
+Scope[edit]
+GitHub is mostly used for code.
+
+In addition to source code, GitHub supports the following formats and features:
+
+Documentation, including automatically rendered README files in a variety of Markdown-like file formats (see README files on GitHub)
+Issue tracking (including feature requests) with labels, milestones, assignees and a search engine
+Wikis
+Pull requests with code review and comments
+Commits history
+Graphs: pulse, contributors, commits, code frequency, punch card, network, members
+Integrations Directory[13]
+Unified and split diffs
+Email notifications
+Option to subscribe someone to notifications by @ mentioning them.[14]
+Emojis[15]
+GitHub Pages: small websites can be hosted from public repositories on GitHub. The URL format is http://username.github.io.[1]
+Nested task-lists within files
+Visualization of geospatial data
+3D render files that can be previewed using a new integrated STL file viewer that displays the files on a "3D canvas".[16] The viewer is powered by WebGL and Three.js.
+Photoshop's native PSD format can be previewed and compared to previous versions of the same file.
+Licensing of repositories[edit]
+GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the Open Source Definition. For that reason, it is advisable for users and developers intending to use a piece of software found on GitHub to read the software license in the repository (usually found in a top-level file called "LICENSE", "LICENSE.txt", or similar) to determine if it meets their needs[citation needed]. The Terms of Service state, "By setting your repositories to be viewed publicly, you agree to allow others to view and fork your repositories."[17]
+
+GitHub Enterprise[edit]
+GitHub Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate firewall.[18]
+
+Gists[edit]
+GitHub also operates other services: a pastebin-style site called Gist[11] that is for hosting code snippets (GitHub proper is for hosting larger projects), and a slide hosting service called Speaker Deck.
+
+Tom Preston-Werner presented the then-new Gist feature at a punk rock Ruby conference in 2008.[19] Gist builds on the traditional simple concept of a pastebin by adding version control for code snippets, easy forking, and SSL encryption for private pastes. Because each "gist" has its own Git repository, multiple code snippets can be contained in a single paste and they can be pushed and pulled using Git. Further, forked code can be pushed back to the original author in the form of a patch, so gists (pastes) can become more like mini-projects.
+
+Education program[edit]
+GitHub launched a new program called the GitHub Student Developer Pack to give students free access to popular development tools and services. GitHub partnered with Bitnami, Crowdflower, DigitalOcean, DNSimple, HackHands, Namecheap, Orchestrate, Screenhero, SendGrid, Stripe, Travis CI and Unreal Engine to launch the program.[20]
+
+History[edit]
+
+The shading of the map illustrates the number of users as a proportion of each country’s Internet population. The circular charts surrounding the two hemispheres depict the total number of GitHub users (left) and commits (right) per country.
+On 24 February 2009, GitHub team members announced, in a talk at Yahoo! headquarters, that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month alone. At that time, about 6,200 repositories had been forked at least once and 4,600 had been merged.
+
+On 5 July 2009, GitHub announced that the site was now harnessed by over 100,000 users. On 27 July 2009, In another talk delivered at Yahoo!, Tom Preston-Werner announced that GitHub had grown to host 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.[21]
+
+On 25 July 2010, GitHub announced that it hosts 1 million repositories.[22] On 20 April 2011, GitHub announced that it is hosting 2 million repositories.[23]
+
+On 2 June 2011, ReadWriteWeb reported that GitHub had surpassed SourceForge and Google Code in total number of commits for the period January to May 2011.[24]
+
+On 9 July 2012, Peter Levine, general partner at GitHub's investor Andreessen Horowitz, stated that GitHub had been growing revenue at 300% annually since 2008 "profitably nearly the entire way".[25]
+
+On 16 January 2013, GitHub announced it had passed the 3 million users mark and was then hosting more than 5 million repositories.[26] On 23 December 2013, GitHub announced it had reached 10 million repositories.[27]
+
+In June 2015, GitHub opened an office in Japan that is its first office outside of the U.S.[28]
+
+On 29 July 2015, GitHub announced it had raised $250 million in funding in a round led by Sequoia Capital. The round valued the company at approximately $2 billion.[29]
+
+In 2016, GitHub was ranked #14 on the Forbes Cloud 100 list.[30]
+
+Censorship[edit]
+Main article: Censorship of GitHub
+On 3 December 2014, GitHub was blocked in Russia for a few days over user-posted suicide manuals.[31]
+
+On 31 December 2014, GitHub was blocked in India (along with 31 other Websites) over pro-ISIS content posted by users.[32] On 10 January 2015, GitHub was unblocked. Again, on 12 Sep 2015, GitHub was blocked all over India. The site was unblocked soon after.
+
+On 26 March 2015, GitHub fell victim to a massive distributed denial-of-service (DDOS) attack that lasted for more than 118 hours.[33] The attack, which appeared to originate from China, primarily targeted GitHub-hosted user content describing methods of circumventing Internet censorship.[34][35][36]
+
+On 8 October 2016, Github access is blocked by the Turkish government to prevent email leakage of a hacked account belonging to the country's Energy Minister.[37]
+
+Departure of Tom Preston-Werner[edit]
+In March 2014, GitHub programmer Julie A
