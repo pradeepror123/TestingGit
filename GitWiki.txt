@@ -86,18 +86,3 @@ On 16 January 2013, GitHub announced it had passed the 3 million users mark and 
 In June 2015, GitHub opened an office in Japan that is its first office outside of the U.S.[28]
 
 On 29 July 2015, GitHub announced it had raised $250 million in funding in a round led by Sequoia Capital. The round valued the company at approximately $2 billion.[29]
-
-In 2016, GitHub was ranked #14 on the Forbes Cloud 100 list.[30]
-
-Censorship[edit]
-Main article: Censorship of GitHub
-On 3 December 2014, GitHub was blocked in Russia for a few days over user-posted suicide manuals.[31]
-
-On 31 December 2014, GitHub was blocked in India (along with 31 other Websites) over pro-ISIS content posted by users.[32] On 10 January 2015, GitHub was unblocked. Again, on 12 Sep 2015, GitHub was blocked all over India. The site was unblocked soon after.
-
-On 26 March 2015, GitHub fell victim to a massive distributed denial-of-service (DDOS) attack that lasted for more than 118 hours.[33] The attack, which appeared to originate from China, primarily targeted GitHub-hosted user content describing methods of circumventing Internet censorship.[34][35][36]
-
-On 8 October 2016, Github access is blocked by the Turkish government to prevent email leakage of a hacked account belonging to the country's Energy Minister.[37]
-
-Departure of Tom Preston-Werner[edit]
-In March 2014, GitHub programmer Julie A
